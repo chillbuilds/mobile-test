@@ -5,6 +5,10 @@ body {
     user-select: none;
 }
 
+* {
+    -webkit-tap-highlight-color: transparent;
+}
+
 #btnContainer {
     width: 90%;
     margin-left: 5%;
